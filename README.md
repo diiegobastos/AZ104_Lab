@@ -1,7 +1,4 @@
-# AZ104_Lab
-Desafio DIO
-
-# Desafio - Gerenciamento de Máquinas Virtuais no Azure 🚀
+# Desafio DIO - Gerenciamento de Máquinas Virtuais no Azure
 
 Este repositório contém anotações, resumos e dicas práticas sobre a gestão de Máquinas Virtuais (VMs) no Microsoft Azure, produzidas durante o laboratório prático da formação em Cloud Computing.
 
